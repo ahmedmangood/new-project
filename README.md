@@ -5,3 +5,4 @@
 # remove branch remotely : git push origin :test
 
 # checkout another branch without commit changes: git stash 
+# how to list tags : git tag
