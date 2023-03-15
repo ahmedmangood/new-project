@@ -12,4 +12,4 @@
 
 # Tell me how to delete tag remotely : git push origin --delete v1.7
 
-![image](https://github.com/ahmedmangood/new-project/download.jpeg)
+![image](download.jpeg)
